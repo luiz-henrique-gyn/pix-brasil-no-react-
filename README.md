@@ -2,7 +2,7 @@
 
 bem vindo ao pix brasil um novo metado de pagamento do brasil
 este rep e criado  para desenvolvedores do brasil 
-react e pix juntos 
+react e pix juntos <br>
 sinta se livre e contribuir!!!!!!
 
 
